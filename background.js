@@ -2,7 +2,7 @@
 
 // publicly available token, yorkU school ID
 const AUTH_TOKEN = 'dGVzdDp0ZXN0';
-const SCHOOL_ID = 'U2Nob29sLTE0OTU=';
+const SCHOOL_ID = 'U2Nob29sLTEyNjY=';
 
 // for searchProfessor and getProfessor, use a self hosted proxy to bypass CORS restrictions
 const searchProfessor = async (name, schoolID) => {
